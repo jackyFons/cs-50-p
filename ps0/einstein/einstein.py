@@ -1,4 +1,3 @@
 m = int(input("Enter kg: "))
-c = 300000000
-e = m * c * c
+e = m * 300000000 ** 2
 print(e)
